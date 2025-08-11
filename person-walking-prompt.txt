@@ -1,0 +1,1 @@
+Duplicate the file "empty.p8" and call it "person-walking.p8". In this person walking file, create a PICO-8 game that contains an animation of a person and have them walk using the arrow keys.

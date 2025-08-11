@@ -1,0 +1,14 @@
+Duplicate the file "empty.p8" and call it "picoband.p8". In this picoband file, create a PICO-8 game that is a roguelike inspired by the game Aangband.
+
+Requirements:
+- The game is on a grid like traditional roguelikes
+- The game is represented by ASCII
+- The player is represented by the character "@"
+- The top level is shops, like Aangband. It should have 2 shops, one where you can buy weapons and another where you can buy healing potions.
+- The top level has stairs going down.
+- Each level below the top level is a "dungeon" level
+- Each dungeon level has stairs that go up and stairs that go down
+- Each dungeon level has randomly generated rooms and cooridoors
+- Each dungeon level has creatures like rats, bats, and wolves
+- Whenever the player moves, the creatures move trail_color
+- There needs to be some kind of combat system where the user can attack other creatures.
